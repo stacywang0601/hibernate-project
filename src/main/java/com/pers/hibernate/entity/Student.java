@@ -1,3 +1,7 @@
+/**
+ * @author stacywang
+ * @date 2017-06-12
+ */
 package com.pers.hibernate.entity;
 
 import javax.persistence.Column;
